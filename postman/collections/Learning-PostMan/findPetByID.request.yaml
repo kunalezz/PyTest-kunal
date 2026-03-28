@@ -1,0 +1,7 @@
+$kind: http-request
+name: findPetByID
+url: https://petstore.swagger.io/v2/pet/12345
+method: GET
+headers:
+  Accept: application/json
+order: 4325059369538787

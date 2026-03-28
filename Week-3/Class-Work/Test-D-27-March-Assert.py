@@ -15,5 +15,3 @@ class TestEqualityLogic:
     def test_string_equality(self):
         assert check_equality("hello", "hello") is True
         assert check_equality("hello", "world") is False
-
-

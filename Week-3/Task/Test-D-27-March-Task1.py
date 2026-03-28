@@ -3,10 +3,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import time
 
 class TestRegisterForm:
 
+    #“This function is a reusable setup method.”
     @pytest.fixture(autouse=True)
     def setup(self):
         self.driver = webdriver.Chrome()
