@@ -1,0 +1,12 @@
+{
+  "valid_user": {
+    "email": "virat111@gmail.com",
+    "password": "virat@123",
+    "role": "SHOPPER"
+  },
+  "invalid_user": {
+    "email": "string",
+    "password": "string",
+    "role": "ADMIN"
+  }
+}

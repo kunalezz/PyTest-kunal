@@ -1,0 +1,12 @@
+{
+  "city": "Jaipur",
+  "country": "India",
+  "email": "virat111@gmail.com",
+  "firstName": "Virat",
+  "gender": "MALE",
+  "lastName": "Kohli",
+  "password": "virat@123",
+  "phone": 9876556789,
+  "state": "Rajasthan",
+  "zoneId": "ALPHA"
+}
